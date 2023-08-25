@@ -1,0 +1,20 @@
+body {
+    background-color: #a8a6a7;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+p{
+    width: 300px;
+    background-color: #724f4d;
+}
+h2 {
+    width: 300px;
+    background-color: #808080;
+}
+label {
+    background-color: #808080;
+    margin-bottom: 15px;
+    
+}
